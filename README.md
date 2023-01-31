@@ -14,6 +14,8 @@ You're an avid bird watcher that keeps track of how many birds have visited your
 
 You have six tasks, all dealing with the numbers of birds that visited your garden.
 
-## ... [..]
-`..`
-..
+## LLL (Lucian's Luscious Lasagna) [Completed]
+`https://exercism.org/tracks/csharp/exercises/lucians-luscious-lasagna`
+In this exercise, you're going to write some code to help Lucian cook an exquisite lasagna from his favorite cook book.
+
+You have four tasks, all related to the time spent cooking the lasagna.
