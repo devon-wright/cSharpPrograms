@@ -1,0 +1,15 @@
+C:\Users\WrightD\OneDrive - education.govt.nz\Documents\Personal Projects  Files\CsharpPrograms\LLL\bin\Debug\net7.0\LLL.exe
+C:\Users\WrightD\OneDrive - education.govt.nz\Documents\Personal Projects  Files\CsharpPrograms\LLL\bin\Debug\net7.0\LLL.deps.json
+C:\Users\WrightD\OneDrive - education.govt.nz\Documents\Personal Projects  Files\CsharpPrograms\LLL\bin\Debug\net7.0\LLL.runtimeconfig.json
+C:\Users\WrightD\OneDrive - education.govt.nz\Documents\Personal Projects  Files\CsharpPrograms\LLL\bin\Debug\net7.0\LLL.dll
+C:\Users\WrightD\OneDrive - education.govt.nz\Documents\Personal Projects  Files\CsharpPrograms\LLL\bin\Debug\net7.0\LLL.pdb
+C:\Users\WrightD\OneDrive - education.govt.nz\Documents\Personal Projects  Files\CsharpPrograms\LLL\obj\Debug\net7.0\LLL.csproj.AssemblyReference.cache
+C:\Users\WrightD\OneDrive - education.govt.nz\Documents\Personal Projects  Files\CsharpPrograms\LLL\obj\Debug\net7.0\LLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WrightD\OneDrive - education.govt.nz\Documents\Personal Projects  Files\CsharpPrograms\LLL\obj\Debug\net7.0\LLL.AssemblyInfoInputs.cache
+C:\Users\WrightD\OneDrive - education.govt.nz\Documents\Personal Projects  Files\CsharpPrograms\LLL\obj\Debug\net7.0\LLL.AssemblyInfo.cs
+C:\Users\WrightD\OneDrive - education.govt.nz\Documents\Personal Projects  Files\CsharpPrograms\LLL\obj\Debug\net7.0\LLL.csproj.CoreCompileInputs.cache
+C:\Users\WrightD\OneDrive - education.govt.nz\Documents\Personal Projects  Files\CsharpPrograms\LLL\obj\Debug\net7.0\LLL.dll
+C:\Users\WrightD\OneDrive - education.govt.nz\Documents\Personal Projects  Files\CsharpPrograms\LLL\obj\Debug\net7.0\refint\LLL.dll
+C:\Users\WrightD\OneDrive - education.govt.nz\Documents\Personal Projects  Files\CsharpPrograms\LLL\obj\Debug\net7.0\LLL.pdb
+C:\Users\WrightD\OneDrive - education.govt.nz\Documents\Personal Projects  Files\CsharpPrograms\LLL\obj\Debug\net7.0\LLL.genruntimeconfig.cache
+C:\Users\WrightD\OneDrive - education.govt.nz\Documents\Personal Projects  Files\CsharpPrograms\LLL\obj\Debug\net7.0\ref\LLL.dll
