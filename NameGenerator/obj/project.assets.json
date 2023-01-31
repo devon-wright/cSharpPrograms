@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\WrightD\\OneDrive - education.govt.nz\\Documents\\Personal Projects  Files\\CsharpPrograms\\BirdWatcher\\BirdWatcher.csproj",
-      "projectName": "BirdWatcher",
-      "projectPath": "C:\\Users\\WrightD\\OneDrive - education.govt.nz\\Documents\\Personal Projects  Files\\CsharpPrograms\\BirdWatcher\\BirdWatcher.csproj",
+      "projectUniqueName": "C:\\Users\\WrightD\\OneDrive - education.govt.nz\\Documents\\Personal Projects  Files\\CsharpPrograms\\NameGenerator\\NameGenerator.csproj",
+      "projectName": "NameGenerator",
+      "projectPath": "C:\\Users\\WrightD\\OneDrive - education.govt.nz\\Documents\\Personal Projects  Files\\CsharpPrograms\\NameGenerator\\NameGenerator.csproj",
       "packagesPath": "C:\\Users\\WrightD\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\WrightD\\OneDrive - education.govt.nz\\Documents\\Personal Projects  Files\\CsharpPrograms\\BirdWatcher\\obj\\",
+      "outputPath": "C:\\Users\\WrightD\\OneDrive - education.govt.nz\\Documents\\Personal Projects  Files\\CsharpPrograms\\NameGenerator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\WrightD\\AppData\\Roaming\\NuGet\\NuGet.Config"

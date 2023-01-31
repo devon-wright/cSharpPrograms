@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/BirdWatcher.csproj",
+                "${workspaceFolder}/NameGenerator.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -19,7 +19,7 @@
             "type": "process",
             "args": [
                 "publish",
-                "${workspaceFolder}/BirdWatcher.csproj",
+                "${workspaceFolder}/NameGenerator.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -33,7 +33,7 @@
                 "watch",
                 "run",
                 "--project",
-                "${workspaceFolder}/BirdWatcher.csproj"
+                "${workspaceFolder}/NameGenerator.csproj"
             ],
             "problemMatcher": "$msCompile"
         }
