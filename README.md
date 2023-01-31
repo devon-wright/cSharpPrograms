@@ -23,3 +23,6 @@ Later down the track we can break apart the first names into two parts to make e
 Next for the username it would be the combonation of the first two letters of the firstname and first letter of the last name + a random number from 1-99.
 
 Lastly for the password we can create a random character string via a pre defined list of chars ("A-Z|a-z|1-9|*|&|"...et. We can look into creating passwords that fit into different methods later. 
+
+## Password Cracker [to-do]
+Use a few different types of password cracking algorithms to help determine the strength of my passwords

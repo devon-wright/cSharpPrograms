@@ -18,7 +18,19 @@
         Console.WriteLine("Username: " + user.GenerateUsername(user.firstname, user.lastname));
 
         //Generate password
+        Console.WriteLine("Password: " + GeneratePassword(10));
+    }
 
+    public static string GeneratePassword(int length){
+        char[] listOfAllowChars = "ABCDEFGHIJKLMNOPQRSTUVWXYZ123456789_-+*&%$#@!".ToCharArray();
+        string password = "";
+        Random rand = new Random();
+
+        for(int i = 1; i <= length; i++){
+            password += "" + listOfAllowChars[rand.Next(0, listOfAllowChars.Length)];
+        }
+
+        return password;
     }
 }
 
