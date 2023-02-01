@@ -14,7 +14,7 @@ In this exercise, you're going to write some code to help Lucian cook an exquisi
 
 You have four tasks, all related to the time spent cooking the lasagna.
 
-## Name Generator (With Credential options) [WIP]
+## Name Generator (With Credential options) [Completed]
 Create a basic name generator with the ability to generate a password and shortened username as well.
 
 First for the names we will be using two lists pre generated - Top 100 girl/boys names since 1954 in NZ, and top 20 NZ last names 2013. What we will do is store these in two csv lists which will be imported into two arrays what we can randomly conjoin together. 
@@ -24,5 +24,3 @@ Next for the username it would be the combonation of the first two letters of th
 
 Lastly for the password we can create a random character string via a pre defined list of chars ("A-Z|a-z|1-9|*|&|"...et. We can look into creating passwords that fit into different methods later. 
 
-## Password Cracker [to-do]
-Use a few different types of password cracking algorithms to help determine the strength of my passwords
